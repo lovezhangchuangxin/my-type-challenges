@@ -1,0 +1,19 @@
+{
+    "name": "my-type-challenges",
+    "version": "0.0.0",
+    "description": "My solutions to type challenges",
+    "main": "index.js",
+    "scripts": {
+        "fix": "prettier --write .",
+        "test": "tsc --noEmit"
+    },
+    "keywords": [
+        "type-challenges"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^3.3.3",
+        "typescript": "^5.5.3"
+    }
+}
